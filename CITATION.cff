@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript."
+title: "Code and data for Synthetic Data-Guided Symmetric Neural Network Approximation in Banach Spaces"
+type: software
+authors:
+  - family-names: Anastassiou
+    given-names: George A.
+  - family-names: Karateke
+    given-names: Seda
+  - family-names: Zontul
+    given-names: Metin
+version: 1.0.0
+date-released: 2026-08-14
+repository-code: "https://github.com/metinzontul/synthetic-data-guided-symmetric-nn-approximation"
+keywords:
+  - approximation theory
+  - neural network operators
+  - symmetric neural networks
+  - Banach spaces
+  - fractional approximation
+  - Caputo-Bochner
+  - synthetic data
+  - explainable artificial intelligence
