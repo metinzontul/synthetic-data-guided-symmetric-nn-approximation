@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """
+Author: Metin Zontul
+
 Table 5 + Figure 8
 Five-seed robustness analysis with leakage-free one-time hyperparameter
 selection and a frozen parameter-matched SNN/Classical NN configuration.
