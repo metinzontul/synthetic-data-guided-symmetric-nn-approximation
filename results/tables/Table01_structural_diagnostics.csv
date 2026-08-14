@@ -1,0 +1,6 @@
+Metric,Value
+Activation symmetry error E_act,2.220446049250313e-16
+Density symmetry error E_den,1.43982048506075e-16
+Partition of unity error E_PU,2.220446049250313e-16
+"Integral of F over [-R,R]",0.9990152747831951
+Integral normalization error E_int,0.000984725216804927

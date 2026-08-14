@@ -1,0 +1,5 @@
+Model,n,t,xi,S,Model specification
+SNN,64,0.5,2.0,e,"a_n=n, b_n=sqrt(n^2+2); reciprocal-deformation symmetrized density kernel F; t=0.5 is the matched representative of the reciprocal-equivalent SNN optimum."
+Classical NN,64,0.5,2.0,e,"a_n=n, b_n=sqrt(n^2+2); classical density kernel aleph_{t,xi}."
+Seasonal ARIMA,,,,,"Nonseasonal order (1,0,1) with seasonal order (0,1,1)_12."
+MLP,,,,,"Two hidden layers (100,50); month index and seasonal sine/cosine predictors; standardized inputs; L-BFGS optimizer."
